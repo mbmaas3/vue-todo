@@ -2,6 +2,14 @@
   "recommendations": [
     "Vue.volar",
     "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "johnpapa.vscode-peacock",
+    "bradlc.vscode-tailwindcss",
+    "heybourn.headwind",
+    "antfu.vite",
+    "ionic.ionic",
+    "eamodio.gitlens",
+    "simonsiefke.svg-preview",
+    "vdanchenkov.tailwind-class-sorter"
   ]
 }
