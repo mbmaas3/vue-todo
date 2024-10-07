@@ -37,7 +37,7 @@ Make sure you have the following installed on your machine:
     - Remove tasks
     - Mark tasks as completed
 - **Ensure the application is responsive** and works well on both desktop and mobile.
-- **Style the application** using Tailwind CSS with a focus on Flexbox layout.
+- **Style the application** using Tailwind CSS.
 - **Use TypeScript** to define types for the tasks (e.g., Todo interface) and ensure type-safety in functions.
 - **Manage state** using Pinia for storing and updating ToDo items.
 
