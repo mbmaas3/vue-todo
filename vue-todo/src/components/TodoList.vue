@@ -22,6 +22,6 @@ const store = useTodoStore()
 const title = ref<string>('')
 
 const addTodo = () => {
-    store.addTodo(title.value)
+  store.addTodo(title.value)
 }
 </script>
