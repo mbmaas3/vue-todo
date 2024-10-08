@@ -30,6 +30,8 @@ Make sure you have the following installed on your machine:
     ```bash
     npm run dev
 
+(You can also fork it and use Codespaces)
+
 ### The Task
 
 - **Create and implement a ToDo list** that allows users to:
