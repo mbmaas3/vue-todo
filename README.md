@@ -3,7 +3,7 @@ A starter project for building a responsive ToDo list app using Vue 3, TypeScrip
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes (You can also fork it and use Codespaces).
 
 ### Prerequisites
 
@@ -29,8 +29,6 @@ Make sure you have the following installed on your machine:
 4. **Run the development server**:
     ```bash
     npm run dev
-
-(You can also fork it and use Codespaces)
 
 ### The Task
 
