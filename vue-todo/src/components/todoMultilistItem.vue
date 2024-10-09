@@ -22,17 +22,17 @@
 </template>
 <script setup lang='ts'>
 import type { TodoItem } from '@/interfaces/types';
-import { useTodoStore } from '@/stores/todoStore';
+import { useTodoStoreList } from '@/stores/todoListStore';
 
-const store = useTodoStore()
+const storeList = useTodoStoreList()
 const { id = "", title = 'No title! 😭', completed = false, priority =0 } = defineProps<TodoItem>()
 
 const markAsCompleted = () => {
-  store.setTodoToCompletedById(id); 
+  //store.setTodoToCompletedById(id); 
 }
 
 const deleteItem = () => {
-  store.deleteTodoById(id); 
+  storeList.deleteTodoById(id); 
 }
 
 </script>
